@@ -17,3 +17,4 @@ sudo apt-key fingerprint 0EBFCD88sudo add-apt-repository \
 sudo apt-get update
 apt-get install docker-ce docker-ce-cli containerd.io
 apt-get update
+apt install docker-compose
